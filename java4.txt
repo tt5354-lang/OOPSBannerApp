@@ -1,0 +1,12 @@
+public class OOPS {
+    public static void main(String[] args) {
+        lines[0] = System.out.println(String.join(" ","   ***    " , "    ***     " , "******    " , "     ***** "));
+        lines[2] = System.out.println(String.join(" "," **   **   " , " **   **   " , "**    **   " , "  **       "));
+        lines[3] = System.out.println(String.join(" ","**     **  " , "**     **  " , "**     **  " , "**         "));
+        lines[4] = System.out.println(String.join(" ","**     **  " , "**     **  " , "**    **  " , "  ***    "));
+        lines[5] = System.out.println(String.join(" ","**     **  " , "**     **  " , "******   " , "       **   "));
+        lines[6] = System.out.println(String.join(" ","**     **  " , "**     **  " , "**        " , "        ** "));
+        lines[7] = System.out.println(String.join(" ","**     **  " , "**     **  " , "**        " , "         **  "));
+        lines[8] = System.out.println(String.join(" "," **   **   " , " **   **   " , "**        " , "        **  "));
+        lines[9] = System.out.println(String.join(" ","   ***     " , "   ***     " , "**        " , "  ******    "));
+    }
